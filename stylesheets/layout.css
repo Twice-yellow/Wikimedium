@@ -48,6 +48,7 @@ content: '';
 width: 3px;
 height: 150px;
 position: absolute;
+left: 230px;
 background: black;
 display: block;
 }
